@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+   
+}
+
+img{
+    width: -webkit-fill-available;
+    display: block;
+}
+
+.article-title{
+    font-weight: bold;
+    
+
+}
+
+.article{
+    background-color: black;
+    color:white;
+    font-size: revert;
+     padding: 4px 50px ;
+      font-size: 27px;
+      display: flex;
+      align-items: flex-start;
+      flex-direction: column;
+     
+     
+}
+
+.author{
+    font-style: italic;
+    font-family: auto;
+    font-weight: bold;
+    margin: 0px 0px 60px;
+}
+
+.name{
+    color:lightblue;
+    
+  
+    
+}
+.line{
+    border-right: 2px solid white;
+    margin: 15px;
+    
+}
+
